@@ -15,7 +15,7 @@
     "extra": {
 	"laravel": {
 		"providers": [
-                	"Samuelayox\\Contactform\\ContactFormServiceProvider"
+                	"Samuelayox\\Contactform\\Src\\ContactFormServiceProvider"
             	]
 	}
     }
