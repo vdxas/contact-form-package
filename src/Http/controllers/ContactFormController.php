@@ -2,7 +2,7 @@
 
 namespace Samuelayox\Contactform\Http\Controllers;
 
-use Samuelayo\Contactform\Models\ContactForm;
+use Samuelayox\Contactform\Models\ContactForm;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
