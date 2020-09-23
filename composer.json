@@ -10,5 +10,12 @@
         "psr-4": {
             "Samuelayo\\Contactform\\": "src/"
         }
-    }
+    },
+    "extra": {
+		"laravel": {
+			"providers": [
+                "Samuelayo\\Contactform\\ContactFormServiceProvider"
+            ],
+        }
+	},
 }
