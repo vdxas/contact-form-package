@@ -1,6 +1,7 @@
 {
     "name": "samuelayox/contactform",
     "description": "A contact form package for laravel",
+    "license": "MIT",
     "authors": [{
         "name": "samuel ogundipe",
         "email": "ayoogundipe2005@gmail.com"
