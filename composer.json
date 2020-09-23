@@ -9,13 +9,13 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Samuelayo\\Contactform\\": "src/"
+            "Samuelayox\\Contactform\\": "src/"
         }
     },
     "extra": {
 	"laravel": {
 		"providers": [
-                	"Samuelayo\\Contactform\\ContactFormServiceProvider"
+                	"Samuelayox\\Contactform\\ContactFormServiceProvider"
             	]
 	}
     }
