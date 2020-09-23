@@ -1,5 +1,5 @@
 <?php
-namespace Samuelayo\Contactform\Models;
+namespace Samuelayox\Contactform\Models;
 use Illuminate\Database\Eloquent\Model;
 
 class ContactForm extends Model
