@@ -1,5 +1,5 @@
 <?php
-namespace Samuelayo\Contactform;
+namespace Samuelayox\Contactform;
 use Illuminate\Support\ServiceProvider;
 
 class ContactFormServiceProvider extends ServiceProvider {
