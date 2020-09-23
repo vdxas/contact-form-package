@@ -1,6 +1,6 @@
 <?php
 
-namespace Samuelayo\Contactform\Http\Controllers;
+namespace Samuelayox\Contactform\Http\Controllers;
 
 use Samuelayo\Contactform\Models\ContactForm;
 use App\Http\Controllers\Controller;
